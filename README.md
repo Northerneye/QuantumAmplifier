@@ -23,4 +23,4 @@ This is two rounds of amplification, which sadly returns a lower average excitat
 
 The paper on this quantum amplifier circuit further describing its operation can be found here.
 
-[embed]https://cameroncianci.com/wp-content/uploads/2023/09/Quantum_Pre_Amplifier.pdf[/embed]
+https://cameroncianci.com/wp-content/uploads/2023/09/Quantum_Pre_Amplifier.pdf
